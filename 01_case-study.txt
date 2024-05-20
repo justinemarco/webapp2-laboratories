@@ -1,0 +1,33 @@
+As a software engineer involved in the project, their are several factors
+or aspects of the project that could have been handled better.
+
+First, the plan of the project should not entirely focus on accomplishing 
+the deliverables but also giving ample amount of time to debug, check, 
+and quality check the work. In planning, estimating the project time and
+resources are crucial in creating the project plan and budget,
+being able to meet the deadline.
+
+Second, the team should have a project schedule wherein it documents the 
+sequence and duration of the project tasks, and deliverables. This will help the 
+team to track and measure the project and performance, know if they are still on
+track or not, taking action when necessary. 
+
+Third, open communication within team members. Communication and collaboration
+is key to accomplishing the project as each member is assigned tasks to do. 
+This will help manage the expectations, feedbacks, and changes that may arise during
+the project. 
+
+Fourth, continue monitoring and controlling the project time and resources. 
+In this part, this will help the team to identify and resolve any issues, problems, 
+or risks that may affect the project outcome. By this, reporting the project status and 
+performance to the team members will determine whether adjustments to the project plan
+are to be made.
+
+Lastly, members of the team should do their part. Strictly adhering to the project plan
+and schedule, will ensure the success of the project, working both on time with quality. 
+By implementing the accomplishment of deliverables strictly, this will ensure that the project
+is still on track.
+
+To conclude, communication, collaboration, and strictly sticking to the project plan and
+accomplishment of deliverables are important to instill the project's success. Of course, 
+keeping in mind, that the project plan is feasible and planned accordingly. 
